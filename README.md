@@ -8,4 +8,7 @@
  -   add userName and email  - > git config user.name "userName"  ,  git config user.email "userEmail"
  -   git add .
  -   git commit -m "Initial commit"
- -   git push origin main
+ -   git push origin main.
+
+
+1. Already code existing in local , then created a new repo and commiting the code into git
